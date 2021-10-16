@@ -17,7 +17,7 @@ I'm interested in Web/Mobile apps development, and Design
 
 <a href="https://www.linkedin.com/in/auriga-farhan/"><img align="left" src="linkedin.svg" alt=" | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/aurigaf"><img align="left" src="instagram.svg" alt=" | Instagram" width="21px"/></a>
-</br>
+
 
 ## 🌱 I'm currently learning
 
