@@ -1,5 +1,5 @@
 <p align=”center”>
-<img width=”2000" height=”50" src=Auriga-2.png alt=”my banner”>
+<img width=”2000" height=”50" src=banner.png alt=”my banner”>
 </p>
 <h3 align="center">
 Hi there, I'm <a href="https://www.aurigaf.me/" target="_blank" rel="noreferrer">Auriga</a> 👋
